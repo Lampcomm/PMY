@@ -24,4 +24,4 @@ build:
 test:
   stage: test
   script:
-  - ./gradlew test
+  - ./gradlew -Pci --console=plain :app:testDebug
