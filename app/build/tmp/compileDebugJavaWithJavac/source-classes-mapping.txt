@@ -1,0 +1,6 @@
+ru/kapmax/lab1/BuildConfig.java
+ ru.kapmax.lab1.BuildConfig
+ru/kapmax/lab1/MainActivity.java
+ ru.kapmax.lab1.MainActivity
+ru/kapmax/lab1/TestsMethods.java
+ ru.kapmax.lab1.TestsMethods
